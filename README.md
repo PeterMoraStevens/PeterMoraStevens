@@ -1,6 +1,6 @@
 Peter Mora-Stevens
-Fullstack Student
-CS @ OSU 2026
+Incoming SWE Intern @ Netflix
+CS @ OSU 2027
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterMoraStevens)](https://github.com/anuraghazra/github-readme-stats)
 <!---
